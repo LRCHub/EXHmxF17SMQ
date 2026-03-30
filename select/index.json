@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ジグソーパズル",
+  "base_artist": "Mafumafu",
+  "createdAt": "2026-03-30T16:59:33.554815Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ジグソーパズル",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/01_ジグソーパズル_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ジグソーパズル",
+      "artist": "mafumafu",
+      "has_synced": true,
+      "path": "select/02_ジグソーパズル_mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jigsaw puzzle ジグソーパズル",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/03_Jigsaw_puzzle_ジグソーパズル_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ジグソーパズル",
+      "artist": "Hilcrhyme",
+      "has_synced": true,
+      "path": "select/04_ジグソーパズル_Hilcrhyme.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジグソーパズル",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_ジグソーパズル_まふまふ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ジグソーパズル",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_02_ジグソーパズル_まふまふ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ジグソーパズル",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_03_ジグソーパズル_まふまふ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ジグソーパズル",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_04_ジグソーパズル_まふまふ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ジグソーパズル",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_05_ジグソーパズル_まふまふ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ジグソーパズル",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_06_ジグソーパズル_まふまふ.txt"
+    }
+  ]
+}
